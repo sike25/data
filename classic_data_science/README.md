@@ -16,3 +16,7 @@ Simulating data from some known probability distribution, to investigate how the
 ### Project Five: K-Means Clustering, Pair plots and PCA  
 Performing K-Means clustering on [Airbnb NYC listings](https://insideairbnb.com/get-the-data/) to group similar accommodations. We preprocessed the data by handling missing values, normalizing numerical features, and encoding categorical features. The optimal number of clusters (k=4) was determined using the Elbow Method and evaluated with the Silhouette Score. We visualized the clusters using both pair plots and PCA, ensuring a comprehensive understanding of the data structure and cluster distribution.
 
+### Project Six: Psilocybin Mushrooms and Attention
+We use R and a virtual population called [the Islands](https://islands.smp.uq.edu.au/l) to answer the question: to what extent do psilocybin mushrooms and vodka affect a person’s ability to pay attention? 
+This project was part of the 2022 STEM Incubator program.
+
