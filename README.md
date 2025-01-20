@@ -1,6 +1,7 @@
 # data 
 
-a collection of small data projects
+a collection of small data projects   
+folders have their own readMe's
 
 ### classic data science
 
